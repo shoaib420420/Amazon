@@ -1,6 +1,7 @@
 # Amazon Clone Website
 
 A focused, responsive frontend clone of the Amazon homepage, built to replicate the core visual structure and responsiveness of the original site.
+You can check project in video through this link: https://drive.google.com/file/d/12zXIjgwsutiXqMylvddym5HyKYTJ3_Ow/view?usp=sharing
 
 ## 📖 Project Overview
 
